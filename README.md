@@ -1,27 +1,36 @@
-![Banner](https://capsule-render.vercel.app/api?type=rect&color=0:2b5876,100:4e4376&height=120&section=header&text=Simon%20Abraham&fontSize=45&fontColor=ffffff&fontAlignY=75)
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:2b5876,100:4e4376&height=160&section=header&text=Simon%20Abraham&fontSize=45&fontColor=ffffff&fontAlignY=35)
 
-# 👋 Senior Software Engineer | Systems Integrator | Educator / Mentor
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=900&center=true&vCenter=true&width=700&height=60&lines=Senior+Software+Engineer;Systems+Integrator+%7C+Data+Visualization+Engineer;Backend+Developer+%7C+Automation+%26+Integration;Educator+%26+Mentor" />
+</p>
 
-I’m a **Senior Software Engineer** specialising in backend integration, automation, and data-driven internal platforms.  
-My career spans **banking & finance**, **government**, **defence & international organisations**, and **public-sector institutions**, designing systems across complex enterprise environments.
+# 👋 Senior Software Engineer | Systems Integrator | Data Visualization Specialist
 
-I build tools that integrate platforms like **Oracle EBS**, **SQL Server**, **REST APIs**, **SCOM**, **MECM**, and **VMware** transforming raw system data into clear dashboards, automation workflows, and modern web interfaces.
+I’m a **Senior Software Engineer** specialising in backend integration, automation, **data visualisation**, and internal platforms.  
+My career spans **banking & finance**, **government**, **defence & international environments**, and **public-sector institutions**, where I design and deliver solutions across complex enterprise ecosystems.
 
-With a background in teaching (5 years), ongoing MSc studies and Cisco instruction, I bring a balance of technical depth, communication clarity, and long-term thinking.  
-I naturally take ownership, guide technical direction, and support those around me without needing the title.
+I build tools that integrate platforms such as **Oracle EBS**, **SQL Server**, **REST APIs**, **SCOM**, **MECM**, and **VMware**, transforming raw system data into clear dashboards, automated workflows, and modern web interfaces.
+
+My background includes 5 years in teaching and earlier Cisco instruction (around 15 years ago).  
+While the certifications are older, the **principles remain core** to my work today:  
+✔ structured communication  
+✔ mentoring and knowledge transfer  
+✔ solid networking fundamentals (VLANs, trunking, subnetting, segmented LAB environments)
+
+I naturally take ownership, support colleagues, and help shape technical direction without needing the formal title.
 
 ---
 
 ## 🎯 What I Do
 
-I focus on creating **practical, maintainable software** that enables teams to do more with their data:
+I create **robust integration-focused software** to unlock operational insights from enterprise systems:
 
 - **Full-stack internal applications** using PHP, HTML5, JavaScript & jQuery  
-- **Data extraction & transformation** across MECM, VMware, Oracle, MSSQL, and APIs  
-- **Operational dashboards** for licensing, compliance, and infrastructure health  
-- **Automation & backend services** to streamline internal workflows  
-- **Integration layers** connecting legacy platforms with modern tooling  
-- **Rapid prototyping** in my home lab before delivering production-ready solutions  
+- **Data extraction, modelling & transformation** from MECM, VMware, Oracle, SQL Server, and REST APIs  
+- **Advanced data visualisation** (Grafana dashboards, licensing views, compliance & infrastructure health reporting)  
+- **Automation & backend services** for efficiency and reliability  
+- **Integration layers** bridging legacy platforms with modern tools  
+- **Home-lab prototyping** to validate ideas before delivering production solutions  
 
 ---
 
@@ -45,50 +54,49 @@ I focus on creating **practical, maintainable software** that enables teams to d
 ### **Data & Databases**
 ![MSSQL](https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
 
 ### **DevOps, Infra & Platforms**
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![Proxmox](https://img.shields.io/badge/Proxmox-E57000?logo=proxmox&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-(working%20knowledge)-844FBA?logo=terraform&logoColor=white)
-![Cisco](https://img.shields.io/badge/Cisco-Instructor-1BA0D7?logo=cisco&logoColor=white)
+![Cisco](https://img.shields.io/badge/Cisco-Networking%20Instructor-(historical)-1BA0D7?logo=cisco&logoColor=white)
 
 ---
 
 ## 🧩 What I Enjoy Building
 
 - 🔗 Integration layers linking VMware, MECM, SQL, Oracle, and REST APIs  
-- 📊 Dashboards for licensing, asset management, compliance & infrastructure  
-- 🧰 Backend services & smart automation for operational efficiency  
-- 🧱 Full-stack applications that unify diverse enterprise data  
-- 🧪 Prototypes & experiments in my home lab to validate concepts  
+- 📊 **Data visualisation dashboards** for licensing, compliance, asset health & performance  
+- 🧰 Backend automation & workflow tools  
+- 🧱 Full-stack applications merging diverse enterprise data  
+- 🧪 Segmented LAB environments (VLANs, trunking, routing) to explore and validate solutions  
 
 ---
 
 ## 🏛 Professional Background (High-Level)
 
-I’ve delivered engineering work within:
+I've contributed engineering work within:
 
 - **Defence & international organisations**  
 - **Government agencies & public-sector programmes**  
-- **Banking & financial services environments**  
+- **Banking & financial services**  
 - **Education (5 years as a non-qualified teacher)**  
 
-Highlights across roles:
+Key themes across roles:
 
-- Building internal platforms, dashboards, and automation engines  
-- Designing data flows across MECM, VMware, Oracle, SQL Server & APIs  
-- Improving reliability, performance, and service visibility  
-- Providing technical guidance and supporting engineers  
-- Leveraging strong communication skills from teaching & instruction  
+- Building internal dashboards, visualisation platforms, and integration layers  
+- Designing system-to-system data flows (MECM, VMware, Oracle, SQL Server, APIs)  
+- Improving performance, reliability, and observability  
+- Supporting engineers through mentoring and clear communication  
+- Applying strong networking fundamentals in system architecture designs  
 
 ---
 
 ## 🎓 Education & Professional Development
 
 - **MSc in Computer Science (In Progress)**  
-  Focus on software development, algorithms, data structures and program design (Java module completed).
+  Focus on software development, algorithms, and program design (Java module completed).
 
 - **Cloud Certifications**  
   - AWS Certified Cloud Practitioner  
@@ -98,18 +106,18 @@ Highlights across roles:
 - **Data & Analytics**  
   - IBM / Coursera – Data Science Orientation  
 
-- **Architecture & Engineering Courses**  
+- **Architecture & Engineering**  
   - NATO Architecture Framework (NAF) Course  
 
 - **Linux & Containers**  
-  - Linux Foundation – Kubernetes Administration (LFS458)
+  - Kubernetes Administration (LFS458 – Linux Foundation)
 
 - **Microsoft Technologies**  
   - Installing & Configuring Windows Server (Exam 410)
 
-- **Teaching & Instruction**  
+- **Teaching & Instruction (Historical)**  
   - 5 years as a non-qualified teacher  
-  - Cisco Networking Academy Instructor  
+  - Cisco Networking Academy Instructor (core networking concepts still actively used)  
 
 ---
 
@@ -118,4 +126,4 @@ Highlights across roles:
 - **LinkedIn:** https://www.linkedin.com/in/simon-abraham  
 - **Email:** `sabe75@hotmail.com` | `sabe075@gmail.com`  
 
-Always happy to connect around internal tooling, automation, integration engineering, or data-driven development.
+Always happy to connect around integration engineering, automation, data visualisation, or internal tooling.
