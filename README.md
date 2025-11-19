@@ -7,7 +7,7 @@ My career spans **banking & finance**, **government**, **defence & international
 
 I build tools that integrate platforms like **Oracle EBS**, **SQL Server**, **REST APIs**, **SCOM**, **MECM**, and **VMware** transforming raw system data into clear dashboards, automation workflows, and modern web interfaces.
 
-With a background in teaching (5 years), Cisco instruction, and ongoing MSc studies, I bring a balance of technical depth, communication clarity, and long-term thinking.  
+With a background in teaching (5 years), ongoing MSc studies and Cisco instruction, I bring a balance of technical depth, communication clarity, and long-term thinking.  
 I naturally take ownership, guide technical direction, and support those around me without needing the title.
 
 ---
