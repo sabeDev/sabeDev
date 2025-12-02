@@ -124,6 +124,5 @@ Key themes across roles:
 ## 📫 Connect with Me
 
 - **LinkedIn:** https://www.linkedin.com/in/simon-abraham  
-- **Email:** `sabe75@hotmail.com` | `sabe075@gmail.com`  
 
 Always happy to connect around integration engineering, automation, data visualisation, or internal tooling.
